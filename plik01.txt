@@ -1,2 +1,2 @@
-master: linia pierwsza
+master: linia pierwsza zmodyfikowana i baaaaardzo dluga
 master: linia druga

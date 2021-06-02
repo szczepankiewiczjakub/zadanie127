@@ -1,2 +1,3 @@
-master: linia pierwsza zmodyfikowana i baaaaardzo dluga
+master: linia pierwsza zmodyfikowana i baaaaardzo dluga featureA: zmodyfikowana linia pierwsza baardzo długa
 master: linia druga
+featureA: trzecia linia
